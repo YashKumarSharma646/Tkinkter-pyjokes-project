@@ -18,7 +18,7 @@ Works on Windows, Mac, and Linux
 
 Clone this repository:
 
-git clone https://github.com/your-username/tkinter-joke-generator.git
+git clone https://github.com/YashKumarSharma646/tkinter-joke-generator.git
 cd tkinter-joke-generator
 
 
